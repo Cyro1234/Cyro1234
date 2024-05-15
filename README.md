@@ -4,8 +4,8 @@
 
 <h1 align="center" width="500"><strong>La joy 😎</strong></h1>
 
-![lilsiru's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cyro1234&show_icons=true&theme=jolly) 
-<img align="right" alt="la joy" width="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIZz3GqLU4F6GT_WiH79stx8NCSnLRvwsV6_NRlpglxA&s"> 
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Cyro1234&show_icons=true&theme=jolly">
+<img alt="la joy" width="100%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIZz3GqLU4F6GT_WiH79stx8NCSnLRvwsV6_NRlpglxA&s"> 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cyro1234&layout=compact)
 
