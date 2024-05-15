@@ -4,11 +4,11 @@
 
 <h1 align="center" width="500"><strong>La joy 😎</strong></h1>
 
-<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=Cyro1234&show_icons=true&theme=jolly">
-<img align="right" width="48%" src="https://gifdb.com/images/high/coding-function-repeat-eat-sleep-7zxwkklr847mhchm.webp">
+<img align="left" width="46%" src="https://github-readme-stats.vercel.app/api?username=Cyro1234&show_icons=true&theme=jolly">
+<img align="right" width="46%" src="https://gifdb.com/images/high/coding-function-repeat-eat-sleep-7zxwkklr847mhchm.webp">
 
 
-<img alt="la joy" width="100%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIZz3GqLU4F6GT_WiH79stx8NCSnLRvwsV6_NRlpglxA&s"> 
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyro1234&layout=compact"> 
+<img alt="la joy" width="46%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIZz3GqLU4F6GT_WiH79stx8NCSnLRvwsV6_NRlpglxA&s"> 
+<img align="right" width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyro1234&layout=compact"> 
  
-
+<img align="left" width="46%" src="https://pbs.twimg.com/profile_images/1712292590660337664/hbOp8eg-_400x400.jpg">
