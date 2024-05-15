@@ -7,6 +7,6 @@
 <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Cyro1234&show_icons=true&theme=jolly">
 <img alt="la joy" width="100%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIZz3GqLU4F6GT_WiH79stx8NCSnLRvwsV6_NRlpglxA&s"> 
 
-<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyro1234&layout=compact"> <img align="right" width="45%" src="https://gifdb.com/images/high/coding-function-repeat-eat-sleep-7zxwkklr847mhchm.webp">
+<img style="align-items: center" align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyro1234&layout=compact"> <img style="align-items: center" align="right" width="45%" src="https://gifdb.com/images/high/coding-function-repeat-eat-sleep-7zxwkklr847mhchm.webp">
  
 
